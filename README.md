@@ -39,7 +39,7 @@ The institution (Cimatec) funding will help during the project, but isn't essenc
 | -                     | -          | R$249,95 - R$485,95 |
 
 
-## Scratchs
+## Risks
 <div style="text-align: justify"> 
 None.<p>
 </div>
