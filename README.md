@@ -28,7 +28,7 @@ The institution (Cimatec) funding will help during the project, but isn't essenc
 |        Material       |  Quantity  | Price (Unit)        |
 |-----------------------|------------|---------------------|
 | Servomotor – MG996R   | 5          | R$47,20             |
-| Flex Sensor           | 5          | R$34,99             |
+| Flex Sensor           | 5          | R$70,99             |
 | Arduino UNO           | 1          |       -             |
 | 22k resistors         | 5          |       -             |
 | Batteries 6-7, 2V     | 1          |       -             |
